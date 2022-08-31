@@ -1,2 +1,2 @@
-#!/bin/bash
-mktemp -d -t
+#!/bin/bassh
+mkdir /tmp/my_firt_directory
